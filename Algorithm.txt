@@ -1,0 +1,11 @@
+CodeAlgorithm 
+
+1. 绝对值和最小值 找中位数 https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/?envType=daily-question&envId=2026-11-02
+2. 最优目标值，数组最大值 https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-iii/description/?envType=daily-question&envId=2026-11-03
+3. 最少点覆盖区间： 按右端点升序. 点尽量覆盖更多区间。 https://www.acwing.com/problem/content/907/
+4. 定长滑窗， 判断最大的元音个数  https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/
+5. 定长滑窗， 求最大平均值， 求窗口的最大值  https://leetcode.cn/problems/maximum-average-subarray-i/
+6. 定长滑窗， 求窗口和 > k * threshold  https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
+7. 二分， 对于每个查询，返回一个元素 k 的起始位置和终止位置 https://www.acwing.com/problem/content/791/
+8. 前缀和 ， 求第 l 个数到第 r 个数的和。  https://www.acwing.com/problem/content/797/
+9. DFS 求有多少个联通块 https://leetcode.cn/problems/number-of-provinces/description/
