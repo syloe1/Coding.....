@@ -9,3 +9,8 @@ CodeAlgorithm
 7. 二分， 对于每个查询，返回一个元素 k 的起始位置和终止位置 https://www.acwing.com/problem/content/791/
 8. 前缀和 ， 求第 l 个数到第 r 个数的和。  https://www.acwing.com/problem/content/797/
 9. DFS 求有多少个联通块 https://leetcode.cn/problems/number-of-provinces/description/
+10. 质因数分解， 求不同质因数的个数   https://www.acwing.com/problem/content/4661/
+11. 数论分块  https://www.acwing.com/problem/content/4665/
+12. 博弈dp https://leetcode.cn/problems/game-of-divisible-sums/
+13. 树形dp https://leetcode.cn/problems/maximize-score-after-zeroing-subtrees/description/
+14. log trick  https://leetcode.cn/problems/count-consistent-subarrays-ii/submissions/
