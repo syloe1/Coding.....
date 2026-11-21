@@ -14,3 +14,9 @@ CodeAlgorithm
 12. 博弈dp https://leetcode.cn/problems/game-of-divisible-sums/
 13. 树形dp https://leetcode.cn/problems/maximize-score-after-zeroing-subtrees/description/
 14. log trick  https://leetcode.cn/problems/count-consistent-subarrays-ii/submissions/
+15. 最大曼哈顿距离 https://leetcode.cn/problems/maximum-manhattan-distance-after-all-moves/
+16. Dijkstra + 状态扩展 https://leetcode.cn/problems/shortest-path-with-at-most-k-consecutive-identical-characters/
+17. 裴蜀定理 蓝桥杯 13买不到的数目https://www.dotcpp.com/oj/problem1427.html
+18. Lucas定理 蓝桥杯 13 公式求值
+19. dfs  蓝桥杯13 危险系数
+20. 树状数组 + 离散化 蓝桥 小朋友排队
